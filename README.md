@@ -29,7 +29,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3rr0r-505&layout=compact)](https://github.com/anuraghazra/github-readme-stats)" alt="3rr0r-505" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3rr0r-505&show_icons=true&locale=en" alt="3rr0r-505" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=3rr0r-505&theme=cobalt2&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)" alt="3rr0r-505" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3rr0r-505&" alt="3rr0r-505" /></p>
 
