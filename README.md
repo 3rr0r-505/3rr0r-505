@@ -27,7 +27,7 @@
 <p><a href="https://www.buymeacoffee.com/5pyD3R"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="5pyD3R" /></a><a href="https://ko-fi.com/5pyd3r"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="5pyd3r" /></a></p><br><br></p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=3rr0r-505&show_icons=true&locale=en&layout=compact" alt="3rr0r-505" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3rr0r-505&layout=compact)](https://github.com/anuraghazra/github-readme-stats)" alt="3rr0r-505" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3rr0r-505&show_icons=true&locale=en" alt="3rr0r-505" /></p>
 
