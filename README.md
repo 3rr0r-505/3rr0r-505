@@ -17,7 +17,7 @@
 <a href="https://www.leetcode.com/3rr0r-505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="3rr0r-505" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sam_h4ck3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sam_h4ck3r" height="30" width="40" /></a>
 <a href="https://discord.gg/#2589" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#2589" height="30" width="40" /></a>
-<a href="https://www.stopstalk.com/user/profile/5pyD3R" target="blank"><img align="center" src="https://www.stopstalk.com/static/images/stopstalk-logo.png" alt="3rr0r-505" height="30" width="40" /></a>
+<a href="https://www.stopstalk.com/user/profile/5pyD3R" target="blank"><img align="center" src="https://www.stopstalk.com/static/images/stopstalk-logo.png" alt="3rr0r-505" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
