@@ -9,6 +9,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/samrat1913" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samrat1913" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19831051/5pyd3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="5pyd3r" height="30" width="40" /></a>
+<a href="https://medium.com/@5pyd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@5pyd" height="30" width="40" /></a>
 <a href="https://dribbble.com/s__a__m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="s__a__m" height="30" width="40" /></a>
 <a href="https://www.fiverr.com/samrat__dey?up_rollout=true" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/fiverr/fiverr-icon.svg" alt="s__a__m" height="30" width="40" /></a>
 <a href="https://instagram.com/_._s_a.m_._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_._s_a.m_._" height="30" width="40" /></a>
