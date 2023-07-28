@@ -34,10 +34,12 @@
 <p><a href="https://www.buymeacoffee.com/5pyD3R"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="5pyD3R" /></a><a href="https://ko-fi.com/5pyd3r"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="5pyd3r" /></a></p><br><br></p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3rr0r-505&layout=compact)](https://github.com/anuraghazra/github-readme-stats)" alt="3rr0r-505" /></p>
+<!-- <p><img align="left" src="[(https://github-readme-stats.vercel.app/api/top-langs/?username=3rr0r-505&layout=compact)](https://github.com/anuraghazra/github-readme-stats)" alt="3rr0r-505" /></p> -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3rr0r-505&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=3rr0r-505&theme=cobalt2&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)" alt="3rr0r-505" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3rr0r-505&" alt="3rr0r-505" /></p>
 
-
+ 
