@@ -3,7 +3,7 @@
 <h3 align="center">A passionate d3veloper from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/3rr0r-505/3rr0r-505/main/coding-freak.gif")>
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/5pyD3R.png?version=5)](https://tryhackme.com/p/5pyD3R)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/5pyD3R.png?version=7)](https://tryhackme.com/p/5pyD3R)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3rr0r-505&label=Profile%20views&color=0e75b6&style=flat" alt="3rr0r-505" /> </p>
 
