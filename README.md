@@ -41,7 +41,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3rr0r-505&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=3rr0r-505&theme=cobalt2&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)" alt="3rr0r-505" /></p>
+<p>&nbsp;<img align="left" style="margin-bottom: 20px;" src="https://github-readme-stats.vercel.app/api?username=3rr0r-505&theme=cobalt2&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)" alt="3rr0r-505" /></p>
 
 <p>&nbsp;</p>
 
