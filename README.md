@@ -1,6 +1,6 @@
 ![MasterHead](https://raw.githubusercontent.com/3rr0r-505/3rr0r-505/main/coder-law.jpg)
 <h1 align="center">Hi 👋, I'm 5pyD3R</h1>
-<h3 align="center">A passionate T3ch-nerd</h3>
+<h3 align="center">A passionate D3V & T3ch-nerd</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/3rr0r-505/3rr0r-505/main/coding-freak.gif")>
 
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/5pyD3R.png?version=7)](https://tryhackme.com/p/5pyD3R)
