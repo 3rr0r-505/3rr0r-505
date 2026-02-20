@@ -5,7 +5,14 @@
 
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/5pyD3R.png?version=7)](https://tryhackme.com/p/5pyD3R)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=3rr0r-505&label=Profile%20views&color=0e75b6&style=flat" alt="3rr0r-505" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=3rr0r-505&label=Profile%20views&color=0e75b6&style=flat" alt="3rr0r-505" /> </p> -->
+<p align="left">
+  <img src="https://img.shields.io/badge/Built-Different-black?style=for-the-badge&logo=ghost&logoColor=white" />
+  <img src="https://img.shields.io/badge/Motivation-%3C%20Consistency-B22222?style=for-the-badge&color=52B788" />
+  <img src="https://img.shields.io/badge/Work-In%20Silence-black?style=for-the-badge&logo=ghost&logoColor=white" />
+</p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,7 +46,7 @@
 
 <!-- <p><img align="left" src="[(https://github-readme-stats.vercel.app/api/top-langs/?username=3rr0r-505&layout=compact)](https://github.com/anuraghazra/github-readme-stats)" alt="3rr0r-505" /></p> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3rr0r-505&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3rr0r-505&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>&nbsp;<img align="left" style="margin-bottom: 20px;" src="https://github-readme-stats.vercel.app/api?username=3rr0r-505&theme=cobalt2&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)" alt="3rr0r-505" /></p>
 
