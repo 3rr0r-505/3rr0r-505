@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/Built-Different-black?style=for-the-badge&logo=ghost&logoColor=white" />
   <img src="https://img.shields.io/badge/Motivation-%3C%20Consistency-B22222?style=for-the-badge&color=52B788" />
   <img src="https://img.shields.io/badge/Work-In%20Silence-black?style=for-the-badge&logo=ghost&logoColor=white" />
+  <img src="https://img.shields.io/badge/noise-ignored-0f172a?style=for-the-badge&logo=target&logoColor=white" />
 </p>
 
 
