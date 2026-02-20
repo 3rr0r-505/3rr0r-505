@@ -1,7 +1,7 @@
-![MasterHead](https://raw.githubusercontent.com/3rr0r-505/3rr0r-505/main/coder-law.jpg)
+![MasterHead](https://raw.githubusercontent.com/3rr0r-505/3rr0r-505/main/assets/coder-law.jpg)
 <h1 align="center">Hi 👋, I'm 5pyD3R</h1>
 <h3 align="center">A passionate Dev & T3ch-nerd</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/3rr0r-505/3rr0r-505/main/coding-freak.gif")>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/3rr0r-505/3rr0r-505/main/assets/coding-freak.gif">
 
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/5pyD3R.png?version=7)](https://tryhackme.com/p/5pyD3R)
 
@@ -27,7 +27,7 @@
 <a href="https://dribbble.com/5pyD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="s__a__m" height="30" width="40" /></a>
 <a href="https://www.fiverr.com/spy_d3r" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/fiverr/fiverr-icon.svg" alt="s__a__m" height="30" width="40" /></a>
 <!--<a href="https://instagram.com/_._s_a.m_._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_._s_a.m_._" height="30" width="40" /></a>-->
-<a href="https://www.codechef.com/users/spyd3rr" target="blank"><img align="center" src="https://github.com/3rr0r-505/3rr0r-505/blob/main/codechef.jpg" alt="err0r_505" height="30" width="30" /></a>
+<a href="https://www.codechef.com/users/spyd3rr" target="blank"><img align="center" src="https://github.com/3rr0r-505/3rr0r-505/blob/main/assets/codechef.jpg" alt="err0r_505" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/3rror_505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="3rror_505" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/3rr0r_505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="3rr0r_505" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@3rr0r-505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@3rr0r-505" height="30" width="40" /></a>
@@ -57,7 +57,7 @@
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/></a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"/></a>
-<a href="https://vercel.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" height="40"/></a>
+<a href="https://vercel.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/3rr0r-505/3rr0r-505/main/assets/vercel-logo.svg" width="40" height="40"/></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
