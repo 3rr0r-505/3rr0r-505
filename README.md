@@ -156,10 +156,10 @@
 
 <p align="left">
   <a href="https://3rr0r-505.github.io/">
-    <img src="https://img.shields.io/badge/🕷️_Portfolio-LIVE-00FF41?style=for-the-badge&labelColor=0d1117&color=00FF41"/>
+    <img src="https://img.shields.io/badge/🕷️_Portfolio-LIVE-00FF41?style=for-the-badge&labelColor=66ff66&color=BF00FF"/>
   </a>
   <a href="https://3rr0r-505.github.io/">
-    <img src="https://img.shields.io/badge/View_My_Work-→_Enter-000000?style=for-the-badge&logo=vercel&logoColor=00FF41"/>
+    <img src="https://img.shields.io/badge/View_My_Work-→_Enter-000000?style=for-the-badge&logo=vercel&logoColor=00F5FF"/>
   </a>
 </p>
 
