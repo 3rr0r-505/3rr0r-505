@@ -2,28 +2,43 @@
 
 ![MasterHead](https://raw.githubusercontent.com/3rr0r-505/3rr0r-505/main/assets/coder-law.jpg)
 
-<h1>[ 5pyD3R ]</h1>
-<h3>⚡ Dev · Hacker · T3ch-Nerd ⚡</h3>
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║    ███████╗██████╗ ██╗   ██╗██████╗ ██████╗ ██████╗          ║
+║    ██╔════╝██╔══██╗╚██╗ ██╔╝██╔══██╗╚════██╗██╔══██╗         ║
+║    ███████╗██████╔╝ ╚████╔╝ ██║  ██║ █████╔╝██████╔╝         ║
+║    ╚════██║██╔═══╝   ╚██╔╝  ██║  ██║ ╚═══██╗██╔══██╗         ║
+║    ███████║██║        ██║   ██████╔╝██████╔╝██║  ██║         ║
+║    ╚══════╝╚═╝        ╚═╝   ╚═════╝ ╚═════╝ ╚═╝  ╚═╝         ║
+║                                                              ║
+║              [ Dev · Hacker · T3ch-Nerd ]                    ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Passionate+Dev+%26+T3ch-Nerd;Building+in+the+shadows+%F0%9F%95%B7%EF%B8%8F;Work+in+silence%2C+let+the+code+speak;Consistency+%3E+Motivation;Security+%7C+Dev+%7C+Open+Source" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Passionate+Dev+%26+T3ch-Nerd;Building+in+the+shadows+%F0%9F%95%B7%EF%B8%8F;Work+in+silence%2C+let+the+code+speak;Consistency+%3E+Motivation;Security+%7C+Dev+%7C+Open+Source;505!+Status+Not+Found." alt="Typing SVG" />
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/3rr0r-505/3rr0r-505/main/assets/coding-freak.gif"/>
+<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/3rr0r-505/3rr0r-505/main/assets/coding-freak.gif"/>
 
 ## `> whoami`
 
 ```bash
-$ cat profile.txt
+┌──[5pyD3R@shadow]─[~]
+└─$ cat profile.txt
 
-  Name    : 5pyD3R
-  Role    : Dev & T3ch-Nerd
-  Status  : 505! Status Not Found
-  Mode    : Work in Silence
-  Noise   : Ignored
-  Motto   : Consistency > Motivation
+  ╔═══════════════════════════════════════╗
+  ║  Name      :  5pyD3R                  ║
+  ║  Role      :  Dev & T3ch-Nerd         ║
+  ║  Status    :  505! Status Not Found   ║
+  ║  Mode      :  Work in Silence         ║
+  ║  Noise     :  Ignored                 ║
+  ║  Motto     :  Consistency > Motivation║
+  ║  Portfolio :  → spyd3r.dev            ║
+  ╚═══════════════════════════════════════╝
 ```
 
 <br/>
@@ -41,6 +56,7 @@ $ cat profile.txt
   <img src="https://img.shields.io/badge/Consistency-%3E_Motivation-52B788?style=for-the-badge&logo=target&logoColor=white" />
   <img src="https://img.shields.io/badge/Work-In_Silence-000000?style=for-the-badge&logo=ghost&logoColor=00FF41" />
   <img src="https://img.shields.io/badge/Noise-Ignored-0f172a?style=for-the-badge&logo=target&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/505-Status_Not_Found-FF0000?style=for-the-badge&logo=statuspage&logoColor=white" />
 </p>
 
 ---
@@ -126,9 +142,33 @@ $ cat profile.txt
 
 ---
 
+## `> ./portfolio.sh`
+
+```bash
+┌──[5pyD3R@shadow]─[~]
+└─$ ./launch_portfolio.sh
+
+  [*] Initializing portfolio...
+  [*] Loading projects.............. DONE
+  [*] Rendering UI.................. DONE
+  [✓] Portfolio is LIVE → https://your-portfolio-url.com
+```
+
+<p align="left">
+  <a href="https://3rr0r-505.github.io/">
+    <img src="https://img.shields.io/badge/🕷️_Portfolio-LIVE-00FF41?style=for-the-badge&labelColor=0d1117&color=00FF41"/>
+  </a>
+  <a href="https://3rr0r-505.github.io/">
+    <img src="https://img.shields.io/badge/View_My_Work-→_Enter-000000?style=for-the-badge&logo=vercel&logoColor=00FF41"/>
+  </a>
+</p>
+
+---
+
 ## `> ./connect.sh`
 
 <p align="left">
+  <a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00FF41"/></a>
   <a href="https://linkedin.com/in/samrat1913"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://codepen.io/3rr0r-505"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
   <a href="https://dev.to/3rr0r505"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
@@ -147,6 +187,10 @@ $ cat profile.txt
 
 ## `> ./support.sh`
 
+```bash
+# If my work helped you, fuel the grind ☕
+```
+
 <p>
   <a href="https://www.buymeacoffee.com/5pyD3R">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"/>
@@ -162,7 +206,11 @@ $ cat profile.txt
 <div align="center">
 
 ```
-[ ACCESS GRANTED ] — thanks for visiting, now go build something cool. 🕷️
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║         [ ACCESS GRANTED ] — you've reached the end.         ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=3rr0r-505&color=00FF41&style=flat-square&label=VISITORS)
