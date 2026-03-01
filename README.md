@@ -96,8 +96,8 @@ $ cat profile.txt
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=3rr0r-505&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&border_color=00FF41&bg_color=0d1117&title_color=00FF41&icon_color=00FF41"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3rr0r-505&layout=compact&langs_count=8&theme=chartreuse-dark&border_color=00FF41&bg_color=0d1117&title_color=00FF41"/>
+<img height="180em" src="https://github-readme-stats-cmls.vercel.app/api?username=3rr0r-505&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&border_color=00FF41&bg_color=0d1117&title_color=00FF41&icon_color=00FF41"/>
+<img height="180em" src="https://github-readme-stats-cmls.vercel.app/api/top-langs/?username=3rr0r-505&layout=compact&langs_count=8&theme=chartreuse-dark&border_color=00FF41&bg_color=0d1117&title_color=00FF41"/>
 
 </div>
 
