@@ -22,9 +22,11 @@
 
 ---
 
-<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/3rr0r-505/3rr0r-505/main/assets/coding-freak.gif"/>
 
 ## `> whoami`
+
+<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/3rr0r-505/3rr0r-505/main/assets/coding-freak.gif"/>
+
 
 ```bash
 ┌──[5pyD3R@shadow]─[~]
@@ -43,7 +45,7 @@
 
 <br/>
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/5pyD3R.png?version=7)](https://tryhackme.com/p/5pyD3R)
+<!--[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/5pyD3R.png?version=7)](https://tryhackme.com/p/5pyD3R)-->
 
 <br clear="right"/>
 
