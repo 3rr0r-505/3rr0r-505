@@ -141,15 +141,12 @@
   [*] Initializing portfolio...
   [*] Loading projects.............. DONE
   [*] Rendering UI.................. DONE
-  [✓] Portfolio is LIVE → https://your-portfolio-url.com
+  [✓] Portfolio is LIVE → https://me.5pyd3r.org
 ```
 
 <p align="left">
-  <a href="https://3rr0r-505.github.io/">
-    <img src="https://img.shields.io/badge/🕷️_Portfolio-LIVE-00FF41?style=for-the-badge&labelColor=66ff66&color=BF00FF"/>
-  </a>
-  <a href="https://3rr0r-505.github.io/">
-    <img src="https://img.shields.io/badge/View_My_Work-→_Enter-000000?style=for-the-badge&logo=vercel&logoColor=00F5FF"/>
+  <a href="https://me.5pyd3r.org">
+    <img src="https://img.shields.io/badge/🕷️_Portfolio-LIVE-F200D1?style=for-the-badge&labelColor=71edd8&color=F200D1"/>
   </a>
 </p>
 
