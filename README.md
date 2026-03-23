@@ -2,7 +2,7 @@
 
 <!--![MasterHead](https://raw.githubusercontent.com/3rr0r-505/3rr0r-505/main/assets/coder-law.jpg)-->
 
-![banner](./assets/banner.svg)
+![banner](./assets/banner-base64_ttf.svg)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Passionate+Dev+%26+T3ch-Nerd;Building+in+the+shadows+%F0%9F%95%B7%EF%B8%8F;Work+in+silence%2C+let+the+code+speak;Consistency+%3E+Motivation;Security+%7C+Dev+%7C+Open+Source;505!+Status+Not+Found." alt="Typing SVG" />
 
