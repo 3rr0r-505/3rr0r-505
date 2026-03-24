@@ -27,7 +27,7 @@
   ║  Mode      :  Work in Silence         ║
   ║  Noise     :  Ignored                 ║
   ║  Motto     :  Consistency > Motivation║
-  ║  Portfolio :  → spyd3r.dev            ║
+  ║  Portfolio :  → me.5pyd3r.org         ║
   ╚═══════════════════════════════════════╝
 ```
 
@@ -155,8 +155,8 @@
 ## `> ./connect.sh`
 
 <p align="left">
-  <a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00FF41"/></a>
-  <a href="https://linkedin.com/in/samrat1913"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://me.5pyd3r.org"><img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00FF41"/></a>
+  <a href="https://www.linkedin.com/in/samratd3y/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://codepen.io/3rr0r-505"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
   <a href="https://dev.to/3rr0r505"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
   <a href="https://stackoverflow.com/users/19831051/5pyd3r"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
