@@ -13,7 +13,7 @@
 
 ## `> whoami`
 
-<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/3rr0r-505/3rr0r-505/main/assets/coding-freak.gif"/>
+<img align="right" alt="Coding" width="270" src="https://raw.githubusercontent.com/3rr0r-505/3rr0r-505/main/assets/coding-loop.gif"/>
 
 
 ```bash
@@ -30,12 +30,6 @@
   ║  Portfolio :  → me.5pyd3r.org         ║
   ╚═══════════════════════════════════════╝
 ```
-
-<br/>
-
-<!--[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/5pyD3R.png?version=7)](https://tryhackme.com/p/5pyD3R)-->
-
-<br clear="right"/>
 
 ---
 
