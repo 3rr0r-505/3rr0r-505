@@ -36,8 +36,6 @@
 
 <br clear="right"/>
 
----
-
 ## `> ls ./badges`
 
 <p>
@@ -123,8 +121,6 @@
 
 </div>
 
----
-
 ## `> ls ./projects`
 
 > 🚧 *Compiling... check pinned repos below* 👇
@@ -143,13 +139,11 @@
   [✓] Portfolio is LIVE → https://me.5pyd3r.org
 ```
 
-<p align="left">
+<!--p align="left">
   <a href="https://me.5pyd3r.org">
     <img src="https://img.shields.io/badge/🕷️_Portfolio-LIVE-F200D1?style=for-the-badge&labelColor=71edd8&color=F200D1"/>
   </a>
-</p>
-
----
+</p-->
 
 ## `> ./connect.sh`
 
@@ -187,8 +181,6 @@
   </a>
 </p>
 
----
-
 <div align="center">
 
 ```
@@ -202,3 +194,5 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=3rr0r-505&color=00FF41&style=flat-square&label=VISITORS)
 
 </div>
+
+---
