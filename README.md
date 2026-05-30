@@ -13,7 +13,7 @@
 
 ## `> whoami`
 
-<img align="right" alt="Coding" width="270" src="https://raw.githubusercontent.com/3rr0r-505/3rr0r-505/main/assets/coding-loop.gif"/>
+<img align="right" alt="Coding" width="260" src="https://raw.githubusercontent.com/3rr0r-505/3rr0r-505/main/assets/coding-loop.gif"/>
 
 
 ```bash
